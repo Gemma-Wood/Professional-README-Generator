@@ -3,14 +3,6 @@
 ## Description
 Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-## Table of Contents
-Installation
-Test
-Usage
-Contributing
-License
-Questions
-
 ## Installation
 To install run the following commands:
 
