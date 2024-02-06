@@ -35,5 +35,5 @@
   - GitHub: [Gemma-Wood](https://github.com/Gemma-Wood)
   - Email: msgemmawood@gmail.com - Please reach out with any additional questions.
   
-  ## Link to Video
+  ## Walkthrough Video
   https://drive.google.com/file/d/10WI1gRmk6WzH9OY45sKT4NXeYAP2e6D1/view
