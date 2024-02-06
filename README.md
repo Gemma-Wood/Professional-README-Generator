@@ -36,4 +36,4 @@
   - Email: msgemmawood@gmail.com - Please reach out with any additional questions.
   
   ## Link to Video
-  [https://app.screencastify.com/v3/watch/86RVava1wPNPhD3DH9tu](https://drive.google.com/file/d/1uYWeF-2JbtkCz_-fKLsle1J9f3uj5VyD/view)https://drive.google.com/file/d/1uYWeF-2JbtkCz_-fKLsle1J9f3uj5VyD/view
+  https://drive.google.com/file/d/10WI1gRmk6WzH9OY45sKT4NXeYAP2e6D1/view
