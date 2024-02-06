@@ -1,4 +1,4 @@
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
     // Function to generate a badge based on the selected license
     function renderLicenseBadge(license) {
@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   
   ## Questions
   - GitHub: [${data.github}](https://github.com/${data.github})
-  - Email: ${data.email} - Feel free to reach out with any additional questions.
+  - Email: ${data.email} - Please reach out with any additional questions.
   
   `;
   }
